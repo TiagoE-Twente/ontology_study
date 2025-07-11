@@ -1,0 +1,185 @@
+Concept,AgreementRate
+Flying bird,0.7500
+Non-flying bird,0.7500
+Canine,0.7500
+Dell desktop,0.7500
+Indeterminate pitch instrument ,0.6667
+Single-reed instrument,0.6667
+Trumpet,0.6667
+Wire,0.6667
+vegetable,0.6000
+brassica,0.6000
+food portion,0.6000
+vegetarian food portion,0.6000
+Tree,0.5000
+Flower,0.5000
+Non-flowering tree,0.5000
+Cat,0.5000
+Technological device,0.5000
+Dell notebook,0.5000
+Mammal,0.5000
+Bird,0.5000
+Animal,0.5000
+Plant,0.5000
+Dog,0.5000
+Living being ,0.5000
+Computer,0.5000
+Desktop computer,0.5000
+Input device,0.5000
+Output device,0.5000
+Monitor,0.5000
+XPS desktop,0.5000
+Notebook,0.5000
+Keyboard,0.5000
+Desktop mac,0.5000
+Beast,0.5000
+Mythical creature,0.5000
+Terrestial beast,0.5000
+Cerberus,0.5000
+Equine,0.5000
+Flying beast,0.5000
+Pegasus,0.5000
+Mouse,0.5000
+Printer,0.5000
+steak,0.4000
+red processed meat product,0.4000
+apple,0.4000
+grape,0.4000
+meat portion,0.4000
+filet,0.4000
+fish filet,0.4000
+red meat portion,0.4000
+tuna filet,0.4000
+poultry filet,0.4000
+tuber,0.4000
+fruit,0.4000
+Membranophone,0.3333
+Woodwind instrument,0.3333
+Percussion instrument ,0.3333
+Unpiched instrument ,0.3333
+Tenor trombone,0.3333
+Cornet,0.3333
+Bass trombone,0.3333
+Piccolo,0.3333
+Chisel,0.3333
+Tambourine,0.3333
+Musical instrument,0.3333
+Tool,0.3333
+Gardening tool,0.3333
+Art tool,0.3333
+Mallet,0.3333
+Rake,0.3333
+Timpani,0.3333
+Roto drum,0.3333
+Brass instrument,0.3333
+Wind instrument,0.3333
+Phoenix,0.2500
+Dragon,0.2500
+Harpy,0.2500
+Hulking humanoid,0.2500
+Peripheral device,0.2500
+Cedar,0.2500
+Cultivated flower,0.2500
+Flowering tree,0.2500
+Wildflower,0.2500
+Penguin,0.2500
+Thunderbird,0.2500
+Bird.1,0.2500
+Hellhound,0.2500
+Unicorn,0.2500
+Wired mouse,0.2500
+Wired keyboard,0.2500
+Alienware desktop,0.2500
+Hydra,0.2500
+Cherubim,0.2500
+Macbook,0.2500
+broccoli,0.2000
+cauliflower,0.2000
+Pine,0.0000
+Ostrich,0.0000
+Eagle,0.0000
+Owl,0.0000
+Siamese,0.0000
+carrot,0.0000
+salmon filet,0.0000
+chicken breast,0.0000
+granny smith apple,0.0000
+mcintosh apple,0.0000
+red globe grape,0.0000
+moon drop grape,0.0000
+sweet potato,0.0000
+Persian,0.0000
+Bulldog,0.0000
+German Shepherd,0.0000
+turkey breast,0.0000
+ribeye steak,0.0000
+pork sausage,0.0000
+tbone steak,0.0000
+ham slice,0.0000
+Macbook Pro,0.0000
+Mac pro,0.0000
+iMac,0.0000
+elf,0.0000
+Terrestial humanoid,0.0000
+Triton,0.0000
+Mermaid,0.0000
+Winged humanoid,0.0000
+Humanoid,0.0000
+Hybrid humanoid,0.0000
+Scaled humanoid,0.0000
+Wyvern,0.0000
+3D printer,0.0000
+Multifunction printer,0.0000
+LCD monitor,0.0000
+Wireless mouse,0.0000
+CRT monitor,0.0000
+XPS notebook,0.0000
+Wireless keyboard,0.0000
+Rose,0.0000
+Alienware notebook,0.0000
+Macbook Air,0.0000
+Tulip,0.0000
+Edelweiss,0.0000
+Dandelion,0.0000
+Apple tree,0.0000
+Orange tree,0.0000
+Trombone,0.0000
+Flaute,0.0000
+Idiophone,0.0000
+Valved instrument,0.0000
+Forest elf,0.0000
+Drow,0.0000
+Golem,0.0000
+Troll,0.0000
+Triangle,0.0000
+Clarinet,0.0000
+Saxophone,0.0000
+Bongo,0.0000
+Fife,0.0000
+Pitched instrument ,0.0000
+Determinate pitch instrument ,0.0000
+Bell,0.0000
+Digging tool,0.0000
+Cutting tool,0.0000
+Brush,0.0000
+Palette,0.0000
+Slit drum,0.0000
+Castanets,0.0000
+Painting tool,0.0000
+Sculpture tool,0.0000
+Trowel,0.0000
+Shovel,0.0000
+Modeling tool,0.0000
+Carving tool,0.0000
+Round brush,0.0000
+Flat brush,0.0000
+Electric tool,0.0000
+Manual tool,0.0000
+Glass palette,0.0000
+Wood palette,0.0000
+Rounded point shovel,0.0000
+Drain shovel,0.0000
+Potting trowel,0.0000
+Rockery trowel,0.0000
+Electric pruner,0.0000
+Chainsaw,0.0000

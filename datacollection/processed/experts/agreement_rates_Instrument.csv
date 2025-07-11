@@ -1,0 +1,32 @@
+Concept,AgreementRate
+Saxophone,0.7826
+Clarinet,0.7391
+Trombone,0.7391
+Bell,0.7391
+Triangle,0.7391
+Slit drum,0.6957
+Castanets,0.6957
+Fife,0.5217
+Trumpet,0.5217
+Indeterminate pitch instrument ,0.5217
+Timpani,0.5217
+Bongo,0.5217
+Roto drum,0.4783
+Valved instrument,0.4783
+Flaute,0.4348
+Tambourine,0.4348
+Piccolo,0.4348
+Determinate pitch instrument ,0.3913
+Cornet,0.3043
+Woodwind instrument,0.2609
+Single-reed instrument,0.2609
+Unpiched instrument ,0.2609
+Idiophone,0.2174
+Pitched instrument ,0.2174
+Wind instrument,0.1739
+Membranophone,0.1739
+Percussion instrument ,0.1739
+Brass instrument,0.1739
+Tenor trombone,0.1304
+Bass trombone,0.1304
+Musical instrument,0.0870

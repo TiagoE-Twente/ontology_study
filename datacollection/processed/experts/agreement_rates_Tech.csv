@@ -1,0 +1,32 @@
+Concept,AgreementRate
+Keyboard,0.8148
+Monitor,0.8148
+Mouse,0.8148
+Printer,0.7778
+Notebook,0.5926
+Desktop computer,0.5556
+Computer,0.4074
+Dell desktop,0.3704
+Dell notebook,0.3333
+Desktop mac,0.3333
+3D printer,0.3333
+Multifunction printer,0.2963
+Wired keyboard,0.2963
+Wired mouse,0.2963
+Macbook,0.2593
+LCD monitor,0.2593
+CRT monitor,0.2593
+Wireless keyboard,0.2593
+Wireless mouse,0.2593
+XPS desktop,0.2593
+Alienware desktop,0.2222
+Input device,0.2222
+Output device,0.2222
+Macbook Pro,0.1852
+Macbook Air,0.1852
+Mac pro,0.1852
+iMac,0.1852
+Alienware notebook,0.1852
+XPS notebook,0.1852
+Peripheral device,0.1481
+Technological device,0.1111
