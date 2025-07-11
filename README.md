@@ -53,4 +53,7 @@ and their answer agreement. Survey 2 is for RQ2, providing an
 image-naming task to the general population showing them random
 elements from the same domains of Survey 1. The two surveys are
 aligned through the elements of the domains so that crossing the
-data can help answer RQ3
+data can help answer RQ3.
+
+NOTE: PYTHON SCRIPTS ARE USED ALONGSIDE THE PROCESSED DATA RESULTS. For nonexperts, python dictionary for "most popular" term in the code is done externally. I personally used filters in excel to do total counts per word, and then account for spelling mistakes and capitalization. 
+
