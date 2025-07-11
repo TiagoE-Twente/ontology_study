@@ -1,4 +1,4 @@
-# ontology_study
+# Empirical Study on Unified Foundational Ontology Kinds
 Replication package &amp; final results for the empirical study on UFO
 
 This repository consolidates the findings, as well as the replication and supplementary materials, from our studies on the Empirical Study on Unified Foundational Ontology: Kinds. 
